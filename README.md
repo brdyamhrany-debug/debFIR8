@@ -4,10 +4,16 @@
 
 # install linux/termux 
 
-got clone https://github.com/brdyamhrany-debug/debFIR8.git
+git clone https://github.com/brdyamhrany-debug/debFIR8.git
+
+
+
 
 
 cd debFIR8
+
+
+
 
 
 python debfire.py
