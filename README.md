@@ -6,9 +6,17 @@
 
 got clone https://github.com/brdyamhrany-debug/debFIR8.git
 
+
 cd debFIR8
+
 
 python debfire.py
 
-# 
+# Recommended Proxy List Generator Tool
+
+python free proxy.py
+
+"""
+wouldn’t recommend this tool for Termux due to its poor cracking performance. It is better to use it on Kali Linux.
+"""
 
