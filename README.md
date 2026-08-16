@@ -16,7 +16,7 @@ python debfire.py
 
 python free proxy.py
 
-"""
-wouldn’t recommend this tool for Termux due to its poor cracking performance. It is better to use it on Kali Linux.
-"""
+# termux debFIR8
+wouldn’t recommend this tool for Termux due to its poor cracking performance. It is better to use it on Kali Linux
+
 
