@@ -20,7 +20,7 @@ python debfire.py
 
 # Recommended Proxy List Generator Tool
 
-python free proxy.py
+python 'free proxy.py'
 
 # termux debFIRE
 wouldn’t recommend this tool for Termux due to its poor cracking performance. It is better to use it on Kali Linux
