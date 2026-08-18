@@ -22,6 +22,10 @@ python debfire.py
 
 python freeproxy.py
 
+# The deb.p tool for creating password lists /recommended
+
+bash deb.p.sh
+
 # termux debFIRE
 wouldn’t recommend this tool for Termux due to its poor cracking performance. It is better to use it on Kali Linux
 
