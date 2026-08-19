@@ -48,7 +48,7 @@ The debFIRE tool on Kali Linux performs brute force attacks by fully using your 
 
 ![debXT](https://raw.githubusercontent.com/brdyamhrany-debug/debFIR8/e2a75df34dfd10e0e7ad193e4e924c2997a86be1/InShot_20260819_102422296.jpg)
 
-to run debXT
+# to run debXT
 
 python debXT.py
 
