@@ -44,5 +44,10 @@ wouldn’t recommend this tool for Termux due to its poor cracking performance. 
 
 The debFIRE tool on Kali Linux performs brute force attacks by fully using your password file and proxy files. However, on Termux it can’t hit as hard and doesn’t work that well. For more cracking, run it on Kali Linux
 
+# debXT
+
+![debXT](https://raw.githubusercontent.com/brdyamhrany-debug/debFIR8/e2a75df34dfd10e0e7ad193e4e924c2997a86be1/InShot_20260819_102422296.jpg)
+
+
 
 
