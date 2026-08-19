@@ -4,6 +4,7 @@
 
 
 
+
 # debFIRE
 
 ![bardia](https://raw.githubusercontent.com/brdyamhrany-debug/debFIR8/f5b62d72a6a89d088cce2778255510eef865ff6e/InShot_20260819_081837503.jpg)
