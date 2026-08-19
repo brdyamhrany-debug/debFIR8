@@ -48,6 +48,10 @@ The debFIRE tool on Kali Linux performs brute force attacks by fully using your 
 
 ![debXT](https://raw.githubusercontent.com/brdyamhrany-debug/debFIR8/e2a75df34dfd10e0e7ad193e4e924c2997a86be1/InShot_20260819_102422296.jpg)
 
+to run debXT
+
+python debXT.py
+
 
 The debXT tool for brute force and Instagram IP logger is professional and dangerous. This tool performs brute force attacks on Instagram accounts and finds their IP and passwords. If it does not find the IP, it will display your IP and it is possible that your IP will fall into the hands of Instagram admins due to unsuccessful operations, or the police and you will be exposed, or your account will be blocked. Then use Tor. 
 
