@@ -1,0 +1,3 @@
+DEB tools have been built for hacking and cracking Instagram, designed to bypass Instagram’s brute-force protection.
+
+Tutorial: How to use this tool (debFIRE) — debFIRE has been built for safe, beginner-friendly brute-force attacks. Here’s how it works: it asks you for the target’s Instagram username, and you enter it. Next, it asks for a password list — you can create your own password list with the deb.p tool — and a proxy list. Since this tool uses Instagram’s online login page, you’ll get blocked after a few wrong password attempts, so we use a proxy list to avoid getting blocked.
