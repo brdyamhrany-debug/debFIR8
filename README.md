@@ -1,5 +1,5 @@
 ![deb](https://raw.githubusercontent.com/brdyamhrany-debug/debFIR8/8d4c4645d29e9aa7ce1501323f043c8b14d535b1/InShot_20260819_081208627.png) 
-v1.0      deb2026
+v1.0 
 
 
 
