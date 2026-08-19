@@ -54,9 +54,9 @@ def simulate_brute_force():
         sys.stdout.write(f"\r{Fore.RED}[*] Attempting: {pwd} ({i+1}/{len(passwords)})")
         sys.stdout.flush()
 
-        time.sleep(0.05)  # کاهش سرعت برای نمایش سریعتر
+        time.sleep(0.05)  
 
-        # فقط برای شبیهسازی: احتمال تصادفی ساختگی
+        
         if random.randint(1, 1000) == 7:
             print(f"\n\n{Fore.GREEN}{'='*40}")
             print_slow("  [!!!] ACCESS GRANTED [!!!]", Fore.GREEN, 0.1)
