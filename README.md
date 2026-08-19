@@ -1,3 +1,8 @@
+![deb](https://raw.githubusercontent.com/brdyamhrany-debug/debFIR8/8d4c4645d29e9aa7ce1501323f043c8b14d535b1/InShot_20260819_081208627.png)
+
+
+
+
 # debFIRE
 
 ![bardia](https://raw.githubusercontent.com/brdyamhrany-debug/debFIR8/4c802bb92ee13350275cdceef0a5a42148472777/XRecorder_20260816_01.jpg)
